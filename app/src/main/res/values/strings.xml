@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Fundamentals</string>
     <string name="main_fragment">Main Fragment</string>
+    <string name="landscape">Landscape</string>
+    <string name="portrait">Portrait</string>
+    <string name="second_activity">Second Activity</string>
 </resources>

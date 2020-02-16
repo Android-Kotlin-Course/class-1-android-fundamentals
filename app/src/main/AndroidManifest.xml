@@ -18,9 +18,12 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".ui.activity.SecondActivity" />
+
         <service android:name=".service.MyService" />
 
         <receiver android:name=".broadcast.MyReceiver" />
+
 
         <provider
             android:name="androidx.core.content.FileProvider"
