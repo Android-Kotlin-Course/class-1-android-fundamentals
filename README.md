@@ -1,2 +1,2 @@
-# class-1-intro-android
-Android Fundamental concepts by Example
+# class 1: Android Fundamentals
+Fundamentals concepts to create Android Apps by Example.
