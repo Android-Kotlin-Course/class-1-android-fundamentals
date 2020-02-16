@@ -8,7 +8,7 @@
     <TextView
         android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
         android:fontFamily="@font/roboto_medium"
         android:gravity="center"
         android:text="@string/main_fragment"
@@ -25,6 +25,12 @@
         android:text="@string/portrait"
         android:textSize="20sp"
         android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/startSecondActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start_secondactivity" />
 
 
 </LinearLayout>

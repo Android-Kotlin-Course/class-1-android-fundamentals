@@ -3,4 +3,6 @@
     <string name="landscape">Paisaje</string>
     <string name="portrait">Retrato</string>
     <string name="second_activity">Segunda Actividad</string>
+    <string name="start_secondactivity">Nagegar a SecondActivity</string>
+
 </resources>
